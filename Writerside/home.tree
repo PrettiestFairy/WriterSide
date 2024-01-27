@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="home"
+                 name="Austin Writer"
+                 start-page="Home.md">
+
+    <toc-element topic="Home.md"/>
+    <toc-element topic="Servers.md">
+        <toc-element topic="RHEL9系统初始化.md"/>
+    </toc-element>
+</instance-profile>
